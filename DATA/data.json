@@ -1,0 +1,54 @@
+[
+    {
+        "nickname": "azxlm",
+        "level": 70,
+        "characters": [
+            "acheron",
+            "firefly",
+            "feixiao",
+            "robin",
+            "aventurine",
+            "blade",
+            "bronya",
+            "pela",
+            "stelle"
+        ],
+        "lightcone": [
+            "along the passing shore",
+            "whereboust should dreams rest",
+            "i venture forth to hunt",
+            "flowing nightlow",
+            "inherently unjust destiny",
+            "the unreachable side",
+            "dance dance dance",
+            "resoluton",
+            "memory of the past"
+        ],
+        "price": 500.0
+    },
+    {
+        "nickname": "fadiru",
+        "level": 70,
+        "characters": [
+            "feixiao",
+            "topaz",
+            "robin",
+            "aventurine",
+            "firefly",
+            "stelle",
+            "ruanmei",
+            "gallagher"
+        ],
+        "lightcone": [
+            "i venture forth to hunt",
+            "worrisome blissful",
+            "flowing nightlow",
+            "inherently unjust destiny",
+            "whereboust should dreams rest",
+            "dance dance dance",
+            "memory of the past",
+            "what is real?"
+        ],
+        "price": 400.0
+    }
+]

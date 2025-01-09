@@ -1,0 +1,25 @@
+[
+    {
+        "nickname": "Tuxedo Cat",
+        "level": 65,
+        "characters": [
+            "kafka",
+            "blackswan",
+            "huohuo",
+            "ruanmei",
+            "stelle",
+            "bothill",
+            "clara",
+            "tingyun"
+        ],
+        "lightcone": [
+            "patience is all you need,reforged remembrance",
+            "quid pro quo",
+            "memory of the past",
+            "dance dance dance",
+            "sailing towards a second life",
+            "on the fall of an aeon,past and future"
+        ],
+        "price": 250.0
+    }
+]
